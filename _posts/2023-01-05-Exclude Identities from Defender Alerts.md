@@ -24,7 +24,7 @@ Microsoft Defender offers various built in Detection Rules. This Rules also aler
 
 ### Exclusions by Rule
 Navigate to: <br>
-[Microsoft 365 Defender portal](security.microsoft.com) -> Settings -> Identities -> Excluded Entities -> Exclusions by detection rule
+Microsoft 365 Defender portal -> Settings -> Identities -> Excluded Entities -> Exclusions by detection rule
 
 Select the Rule, you want to add Exclusions. You have the following options:
 
@@ -44,18 +44,9 @@ The newly added Entities should be excluded in future alerts.
 ### Global Exclusions
 
 Navigate to: <br>
-[Microsoft 365 Defender portal](security.microsoft.com) -> Settings -> Identities -> Excluded Entities -> Global Excluded Entities
+Microsoft 365 Defender portal-> Settings -> Identities -> Excluded Entities -> Global Excluded Entities
 
 Add Entities here, that should be excluded from all Defender Identity Alerts. 
 
-<br><br>
-
-## Exclusions in the Defender for Identity Portal
-
-Navigate to: <br>
-[Microsoft Defender for Identity portal](portal.atp.microsoft.com) -> Settings -> Exclusions
-
-Add the Entities to the specific Rules to exclude them from future Alerts.
-
-![Exclusions Overview](/img/posts/20230105/ExclusionsMDI.png)
+<br>
 
